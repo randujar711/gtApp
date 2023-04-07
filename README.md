@@ -19,4 +19,4 @@
 <img src="https://github.com/randujar711/gtApp2/blob/main/client/gtApp-Client/src/assets/gt_app_event.png" alt="Events Page"/>
 
 <h3 align="center">Collaborators</h3>
-Ryan Andujar: https://github.com/randujar711*
+Ryan Andujar: https://github.com/randujar711
